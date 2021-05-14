@@ -1,2 +1,3 @@
 # Curriculo
- meu curriculo
+
+Meu primeiro repositório no GitHub !!
